@@ -1,5 +1,6 @@
 uc_davis_grad_student_docs
 ==========================
+
 This is a document that we wish we know when we were an incoming grad student in the Physics
 Department at UC Davis
 
@@ -23,6 +24,7 @@ are paid and classes have started
 * Travel reimbursement will be reimbursed in the first paycheck
 
 * Travel reimbursement is calculated based on receipts or airline miles from your origin.
+
 	-reimbursement is ~$0.50/mile
 
 Prelim
@@ -68,8 +70,21 @@ Offices:
 
 * Offices are shared with 3-4 other first years
 
+Summer Research
+----------------------
 
-House
+* Summer research is unlikely before your first year
+
+* For a chance at summer research you should come to the open house with a plan of what you want to do
+and talk to the relevant professors then
+
+Open House
+--------------------
+
+* It is strongly recommended that you attend the open house. This is a great opportunity to meet with other students
+and professors. There is a lot of interaction with the department.
+
+Housing
 -------------------
 
 * It is beneficial to find housing as early as possible
@@ -91,5 +106,28 @@ General Information
 	- Laundromat reviews
 
 	- Restaurant reviews
+
+* If you need information and you haven't gotten a response, don't be afraid to ask twice
+
+* Bring or plan to buy a bike and a U lock
+
+TA Info
+---------------
+
+* You need to be TA-ing 25% (5 hours) for your tuition to be waived
+
+* If you have GSR, your advisor has to cover your fees
+
+* You will fill out TA paperwork once you arrive
+
+Classes
+-------------
+
+* You will meet with an advisor when you arrive (during orientation) to counsel you on what classes to take
+
+
+Still have questions? email me <a href="mailto:kabostroem@ucdavis.edu">kabostroem@ucdavis.edu</a>
+
+
 
 
